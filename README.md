@@ -1,2 +1,2 @@
-# slides-template
-Simple Boadilla beamer theme.
+# kswe-slides-template
+KSWES Boadilla beamer theme.
